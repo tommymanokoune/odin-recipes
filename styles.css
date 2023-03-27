@@ -1,0 +1,33 @@
+h1
+{
+background-color: black;
+color: white;
+font-size: 40px;
+}
+ul.list
+{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+}
+ul.ingredients
+{
+    background-color: gray;
+    font-size: 20px;
+}
+ol.steps
+{
+    background-color: gray;
+}
+h2
+{
+    background-color: honeydew;
+}
+h3
+{
+    background-color: cornflowerblue;
+}
+p
+{
+    background-color: lightblue;
+}
