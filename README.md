@@ -1,3 +1,3 @@
 # odin-recipes
 Odin Project HTML Recipes Document 
-Will talk soon
+I made a recipes website with html and added styling in CSS
